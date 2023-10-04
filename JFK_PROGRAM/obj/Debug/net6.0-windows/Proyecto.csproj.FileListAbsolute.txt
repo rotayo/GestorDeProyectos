@@ -1,0 +1,412 @@
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\Proyecto.exe
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\Proyecto.deps.json
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\Proyecto.runtimeconfig.json
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\Proyecto.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\Proyecto.pdb
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\obj\Debug\net6.0-windows\Proyecto.csproj.AssemblyReference.cache
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\obj\Debug\net6.0-windows\Clientes.Clientes.resources
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\obj\Debug\net6.0-windows\Clientes.Facturación.resources
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\obj\Debug\net6.0-windows\Clientes.Inventario.resources
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\obj\Debug\net6.0-windows\Clientes.Principal.resources
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\obj\Debug\net6.0-windows\Clientes.Proyectos.resources
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\obj\Debug\net6.0-windows\Proyecto.Properties.Resources.resources
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\obj\Debug\net6.0-windows\Proyecto.csproj.GenerateResource.cache
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\obj\Debug\net6.0-windows\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\obj\Debug\net6.0-windows\Proyecto.AssemblyInfoInputs.cache
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\obj\Debug\net6.0-windows\Proyecto.AssemblyInfo.cs
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\obj\Debug\net6.0-windows\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\obj\Debug\net6.0-windows\Proyecto.csproj.CopyComplete
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\obj\Debug\net6.0-windows\Proyecto.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\obj\Debug\net6.0-windows\refint\Proyecto.dll
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\obj\Debug\net6.0-windows\Proyecto.pdb
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\obj\Debug\net6.0-windows\Proyecto.genruntimeconfig.cache
+C:\Users\ULACIT\Desktop\Avance 2 - Proyecto Final\Clientes\obj\Debug\net6.0-windows\ref\Proyecto.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\Proyecto.exe
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\Proyecto.deps.json
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\Proyecto.runtimeconfig.json
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\Proyecto.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\Proyecto.pdb
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ulacit\Desktop\Proyecto\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ulacit\Desktop\Proyecto\obj\Debug\net6.0-windows\Proyecto.csproj.AssemblyReference.cache
+C:\Users\ulacit\Desktop\Proyecto\obj\Debug\net6.0-windows\Clientes.Clientes.resources
+C:\Users\ulacit\Desktop\Proyecto\obj\Debug\net6.0-windows\Clientes.Facturación.resources
+C:\Users\ulacit\Desktop\Proyecto\obj\Debug\net6.0-windows\Clientes.Inventario.resources
+C:\Users\ulacit\Desktop\Proyecto\obj\Debug\net6.0-windows\Clientes.Principal.resources
+C:\Users\ulacit\Desktop\Proyecto\obj\Debug\net6.0-windows\Clientes.Proyectos.resources
+C:\Users\ulacit\Desktop\Proyecto\obj\Debug\net6.0-windows\Proyecto.Properties.Resources.resources
+C:\Users\ulacit\Desktop\Proyecto\obj\Debug\net6.0-windows\Proyecto.csproj.GenerateResource.cache
+C:\Users\ulacit\Desktop\Proyecto\obj\Debug\net6.0-windows\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulacit\Desktop\Proyecto\obj\Debug\net6.0-windows\Proyecto.AssemblyInfoInputs.cache
+C:\Users\ulacit\Desktop\Proyecto\obj\Debug\net6.0-windows\Proyecto.AssemblyInfo.cs
+C:\Users\ulacit\Desktop\Proyecto\obj\Debug\net6.0-windows\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\ulacit\Desktop\Proyecto\obj\Debug\net6.0-windows\Proyecto.csproj.CopyComplete
+C:\Users\ulacit\Desktop\Proyecto\obj\Debug\net6.0-windows\Proyecto.dll
+C:\Users\ulacit\Desktop\Proyecto\obj\Debug\net6.0-windows\refint\Proyecto.dll
+C:\Users\ulacit\Desktop\Proyecto\obj\Debug\net6.0-windows\Proyecto.pdb
+C:\Users\ulacit\Desktop\Proyecto\obj\Debug\net6.0-windows\Proyecto.genruntimeconfig.cache
+C:\Users\ulacit\Desktop\Proyecto\obj\Debug\net6.0-windows\ref\Proyecto.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\Proyecto.exe
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\Proyecto.deps.json
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\Proyecto.runtimeconfig.json
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\Proyecto.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\Proyecto.pdb
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ulacit\Desktop\Versiones\v1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ulacit\Desktop\Versiones\v1\obj\Debug\net6.0-windows\Proyecto.csproj.AssemblyReference.cache
+C:\Users\ulacit\Desktop\Versiones\v1\obj\Debug\net6.0-windows\Clientes.Clientes.resources
+C:\Users\ulacit\Desktop\Versiones\v1\obj\Debug\net6.0-windows\Clientes.Facturación.resources
+C:\Users\ulacit\Desktop\Versiones\v1\obj\Debug\net6.0-windows\Clientes.Inventario.resources
+C:\Users\ulacit\Desktop\Versiones\v1\obj\Debug\net6.0-windows\Proyecto.Forms.MenuProyectos.CrearProyecto.resources
+C:\Users\ulacit\Desktop\Versiones\v1\obj\Debug\net6.0-windows\Clientes.Principal.resources
+C:\Users\ulacit\Desktop\Versiones\v1\obj\Debug\net6.0-windows\Clientes.Proyectos.resources
+C:\Users\ulacit\Desktop\Versiones\v1\obj\Debug\net6.0-windows\Proyecto.Properties.Resources.resources
+C:\Users\ulacit\Desktop\Versiones\v1\obj\Debug\net6.0-windows\Proyecto.csproj.GenerateResource.cache
+C:\Users\ulacit\Desktop\Versiones\v1\obj\Debug\net6.0-windows\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulacit\Desktop\Versiones\v1\obj\Debug\net6.0-windows\Proyecto.AssemblyInfoInputs.cache
+C:\Users\ulacit\Desktop\Versiones\v1\obj\Debug\net6.0-windows\Proyecto.AssemblyInfo.cs
+C:\Users\ulacit\Desktop\Versiones\v1\obj\Debug\net6.0-windows\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\ulacit\Desktop\Versiones\v1\obj\Debug\net6.0-windows\Proyecto.csproj.CopyComplete
+C:\Users\ulacit\Desktop\Versiones\v1\obj\Debug\net6.0-windows\Proyecto.dll
+C:\Users\ulacit\Desktop\Versiones\v1\obj\Debug\net6.0-windows\refint\Proyecto.dll
+C:\Users\ulacit\Desktop\Versiones\v1\obj\Debug\net6.0-windows\Proyecto.pdb
+C:\Users\ulacit\Desktop\Versiones\v1\obj\Debug\net6.0-windows\Proyecto.genruntimeconfig.cache
+C:\Users\ulacit\Desktop\Versiones\v1\obj\Debug\net6.0-windows\ref\Proyecto.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\Proyecto.exe
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\Proyecto.deps.json
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\Proyecto.runtimeconfig.json
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\Proyecto.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\Proyecto.pdb
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\obj\Debug\net6.0-windows\Proyecto.csproj.AssemblyReference.cache
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\obj\Debug\net6.0-windows\Clientes.Clientes.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\obj\Debug\net6.0-windows\Clientes.Facturación.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\obj\Debug\net6.0-windows\Clientes.Inventario.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\obj\Debug\net6.0-windows\Clientes.Principal.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\obj\Debug\net6.0-windows\Clientes.Proyectos.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\obj\Debug\net6.0-windows\Proyecto.Properties.Resources.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\obj\Debug\net6.0-windows\Proyecto.csproj.GenerateResource.cache
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\obj\Debug\net6.0-windows\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\obj\Debug\net6.0-windows\Proyecto.AssemblyInfoInputs.cache
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\obj\Debug\net6.0-windows\Proyecto.AssemblyInfo.cs
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\obj\Debug\net6.0-windows\Proyecto.csproj.CoreCompileInputs.cache
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\obj\Debug\net6.0-windows\Proyecto.csproj.CopyComplete
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\obj\Debug\net6.0-windows\Proyecto.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\obj\Debug\net6.0-windows\refint\Proyecto.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\obj\Debug\net6.0-windows\Proyecto.pdb
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\obj\Debug\net6.0-windows\Proyecto.genruntimeconfig.cache
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\obj\Debug\net6.0-windows\ref\Proyecto.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\obj\Debug\net6.0-windows\Proyecto.Forms.Utiles.CuadroInput.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\obj\Debug\net6.0-windows\Proyecto.Forms.MenuProyectos.CrearProyecto.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\obj\Debug\net6.0-windows\Proyecto.Forms.MenuProyectos.PresupuestoProyecto.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1\obj\Debug\net6.0-windows\Proyecto.Forms.MenuProyectos.ValidarIdProyecto.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\Proyecto.exe
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\Proyecto.deps.json
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\Proyecto.runtimeconfig.json
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\Proyecto.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\Proyecto.pdb
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\obj\Debug\net6.0-windows\Proyecto.csproj.AssemblyReference.cache
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\obj\Debug\net6.0-windows\Clientes.Clientes.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\obj\Debug\net6.0-windows\Clientes.Facturación.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\obj\Debug\net6.0-windows\Clientes.Inventario.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\obj\Debug\net6.0-windows\Proyecto.Forms.MenuProyectos.CrearProyecto.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\obj\Debug\net6.0-windows\Proyecto.Forms.MenuProyectos.PresupuestoProyecto.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\obj\Debug\net6.0-windows\Proyecto.Forms.MenuProyectos.ValidarIdProyecto.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\obj\Debug\net6.0-windows\Clientes.Principal.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\obj\Debug\net6.0-windows\Clientes.Proyectos.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\obj\Debug\net6.0-windows\Proyecto.Forms.Utiles.CuadroInput.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\obj\Debug\net6.0-windows\Proyecto.Properties.Resources.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\obj\Debug\net6.0-windows\Proyecto.csproj.GenerateResource.cache
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\obj\Debug\net6.0-windows\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\obj\Debug\net6.0-windows\Proyecto.AssemblyInfoInputs.cache
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\obj\Debug\net6.0-windows\Proyecto.AssemblyInfo.cs
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\obj\Debug\net6.0-windows\Proyecto.csproj.CoreCompileInputs.cache
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\obj\Debug\net6.0-windows\Proyecto.csproj.CopyComplete
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\obj\Debug\net6.0-windows\Proyecto.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\obj\Debug\net6.0-windows\refint\Proyecto.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\obj\Debug\net6.0-windows\Proyecto.pdb
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\obj\Debug\net6.0-windows\Proyecto.genruntimeconfig.cache
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\obj\Debug\net6.0-windows\ref\Proyecto.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\obj\Debug\net6.0-windows\Proyecto.Forms.MenuGestionarProyectos.MiniaturaProyecto.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\obj\Debug\net6.0-windows\Proyecto.Forms.MenuGestionarProyectos.PlantillaProyecto.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4)\obj\Debug\net6.0-windows\Proyecto.Forms.MenuGestionarProyectos.VistaDeProyectos.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\Proyecto.exe
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\Proyecto.deps.json
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\Proyecto.runtimeconfig.json
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\Proyecto.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\Proyecto.pdb
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\obj\Debug\net6.0-windows\Proyecto.csproj.AssemblyReference.cache
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\obj\Debug\net6.0-windows\Clientes.Clientes.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\obj\Debug\net6.0-windows\Clientes.Facturación.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\obj\Debug\net6.0-windows\Clientes.Inventario.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\obj\Debug\net6.0-windows\Proyecto.Forms.MenuProyectos.CrearProyecto.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\obj\Debug\net6.0-windows\Proyecto.Forms.MenuProyectos.PresupuestoProyecto.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\obj\Debug\net6.0-windows\Proyecto.Forms.MenuProyectos.ValidarIdProyecto.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\obj\Debug\net6.0-windows\Proyecto.Forms.MenuGestionarProyectos.MiniaturaProyecto.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\obj\Debug\net6.0-windows\Proyecto.Forms.MenuGestionarProyectos.PlantillaProyecto.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\obj\Debug\net6.0-windows\Proyecto.Forms.MenuGestionarProyectos.VistaDeProyectos.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\obj\Debug\net6.0-windows\Clientes.Principal.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\obj\Debug\net6.0-windows\Clientes.Proyectos.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\obj\Debug\net6.0-windows\Proyecto.Forms.Utiles.CuadroInput.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\obj\Debug\net6.0-windows\Proyecto.Properties.Resources.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\obj\Debug\net6.0-windows\Proyecto.csproj.GenerateResource.cache
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\obj\Debug\net6.0-windows\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\obj\Debug\net6.0-windows\Proyecto.AssemblyInfoInputs.cache
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\obj\Debug\net6.0-windows\Proyecto.AssemblyInfo.cs
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\obj\Debug\net6.0-windows\Proyecto.csproj.CoreCompileInputs.cache
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\obj\Debug\net6.0-windows\Proyecto.csproj.CopyComplete
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\obj\Debug\net6.0-windows\Proyecto.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\obj\Debug\net6.0-windows\refint\Proyecto.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\obj\Debug\net6.0-windows\Proyecto.pdb
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\obj\Debug\net6.0-windows\Proyecto.genruntimeconfig.cache
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\obj\Debug\net6.0-windows\ref\Proyecto.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\obj\Debug\net6.0-windows\Proyecto.Forms.MenuGestionarProyectos.PlantillaEditarProyecto.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\obj\Debug\net6.0-windows\Clientes.Forms.CierreDeCaja.resources
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\Programacion\PRACTICAS\C#\DiseñoApps\ProyectoFinal\v1 - copia (4) - copia\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\Proyecto.exe
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\Proyecto.deps.json
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\Proyecto.runtimeconfig.json
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\Proyecto.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\Proyecto.pdb
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\obj\Debug\net6.0-windows\Proyecto.csproj.AssemblyReference.cache
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\obj\Debug\net6.0-windows\Clientes.Forms.CierreDeCaja.resources
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\obj\Debug\net6.0-windows\Clientes.Clientes.resources
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\obj\Debug\net6.0-windows\Clientes.Facturación.resources
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\obj\Debug\net6.0-windows\Clientes.Inventario.resources
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\obj\Debug\net6.0-windows\Proyecto.Forms.MenuProyectos.CrearProyecto.resources
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\obj\Debug\net6.0-windows\Proyecto.Forms.MenuProyectos.PresupuestoProyecto.resources
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\obj\Debug\net6.0-windows\Proyecto.Forms.MenuProyectos.ValidarIdProyecto.resources
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\obj\Debug\net6.0-windows\Proyecto.Forms.MenuGestionarProyectos.MiniaturaProyecto.resources
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\obj\Debug\net6.0-windows\Proyecto.Forms.MenuGestionarProyectos.PlantillaEditarProyecto.resources
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\obj\Debug\net6.0-windows\Proyecto.Forms.MenuGestionarProyectos.PlantillaProyecto.resources
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\obj\Debug\net6.0-windows\Proyecto.Forms.MenuGestionarProyectos.VistaDeProyectos.resources
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\obj\Debug\net6.0-windows\Clientes.Principal.resources
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\obj\Debug\net6.0-windows\Clientes.Proyectos.resources
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\obj\Debug\net6.0-windows\Proyecto.Forms.Utiles.CuadroInput.resources
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\obj\Debug\net6.0-windows\Proyecto.Properties.Resources.resources
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\obj\Debug\net6.0-windows\Proyecto.csproj.GenerateResource.cache
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\obj\Debug\net6.0-windows\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\obj\Debug\net6.0-windows\Proyecto.AssemblyInfoInputs.cache
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\obj\Debug\net6.0-windows\Proyecto.AssemblyInfo.cs
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\obj\Debug\net6.0-windows\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\obj\Debug\net6.0-windows\Proyecto.csproj.CopyComplete
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\obj\Debug\net6.0-windows\Proyecto.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\obj\Debug\net6.0-windows\refint\Proyecto.dll
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\obj\Debug\net6.0-windows\Proyecto.pdb
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\obj\Debug\net6.0-windows\Proyecto.genruntimeconfig.cache
+C:\Users\joel\Desktop\ProyectoFinal\proyecto\obj\Debug\net6.0-windows\ref\Proyecto.dll
